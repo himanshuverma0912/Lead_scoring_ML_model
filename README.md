@@ -120,7 +120,7 @@ Here are the steps:
 
 
 
-# Executing the project via Modular Code
+# Executing the project via VScode
 * Install the dependencies using the command, navigate to the **Build a Lead Scoring Model using Machine Learning in Python** directory where the requirements.txt file exists, and run ***pip install -r requirements.txt*** in the terminal/CMD.
 
 * Navigate to the src folder in the project directory using the cd command
